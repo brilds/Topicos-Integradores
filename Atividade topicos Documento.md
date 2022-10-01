@@ -31,20 +31,20 @@ APLICATIVO: “Nosso Ambiente”
 9.	Lembrando que tudo que possa ser reportado às autoridades, o aplicativo poderá fazer de forma consistente, com vídeo, imagens e localizações.
 
 **IDEIAS PARA MONETIZAÇÃO:**
-1 – ADMOB
+1. *ADMOB*
 Se a ideia é desenvolver um App inteiramente gratuito, que os usuários não tenham custos para baixar e que nada nele seja pago, o Admob é uma boa opção.
 O Admob é um formato desenvolvido pelo próprio Google para quem pretende monetizar através de Ads (Anúncios e propagandas) no App, inclusive, essa forma é a que mais aparece nos aplicativos gratuitos.
 Como funciona: Os usuários recebem os anúncios após determinado tempo navegando na plataforma ou após ações específicas. A receita é gerada através de impressões e cliques.
- 2 – COMPRAS NO APP
+ 2. *COMPRAS NO APP*
 As compras podem ser feitas através de funcionalidades “Premium” do App, no caso, se o usuário tiver interesse em usar tal funcionalidade ou vantagem, ele pagaria um valor por ela ou uma taxa mensal para utilizá-la. É uma prática muito comum em aplicativos de jogos, por exemplo, onde as compras acontecem para itens dentro do jogo, os usuários podem comprar vidas ou pacotes para melhorar o desempenho durante o jogo, entre outros. 
 Obs.: Vale ressaltar que as compras precisam oferecer algo relevante, útil ou satisfatório para que o interesse não se transforme em frustração. 
-3 – MODELO DE ASSINATURA
+3. MODELO DE ASSINATURA
 Diferente do modelo de apps pagos, onde você acaba criando uma barreira (Só se utiliza o App mediante a pagamento), o modelo de assinatura é bem mais aceito e efetivo. Geralmente é chamado de “Freemium”, ou seja, o aplicativo é gratuito para baixar e completamente funcional, mas tem restrições que podem melhorar bastante a experiência do cliente se ele aderir a assinatura.
 Um grande exemplo desse formato é o Spotify, os usuários tem acesso grátis a todo o seu catálogo para ouvir, mas tem um limite de pulos de faixas por hora e precisa ouvir propagandas entre elas, e é aí que entra a assinatura do app, onde não existe esse limite de pulos, não ouve propagandas, ganha a funcionalidade de baixar as músicas que desejar e ainda pode ouvir Offline. 
-4 – ESTABELECER PARCERIAS
+4. *ESTABELECER PARCERIAS*
 Pensando em algo mais empresarial, estabelecer parcerias que incluam uma sugestão de produtos e serviços mais relevante para o seu público é uma boa ideia. Quando empresas complementares se juntam ambas crescem.
 Como funcionaria: Esta parceria pode ser um determinado produto anunciado no app, uma venda em conjunto, ofertas exclusivas, entre muitas possibilidades.
 
-5 – APP FREE COM DOAÇÃO
+5. *APP FREE COM DOAÇÃO*
 Essa não é uma prática muito utilizada, alguns poucos aplicativos como o RAR e alguns aplicativos de jogos utilizam este meio de monetização, e o motivo é bem óbvio, se o objetivo é retorno financeiro, esperar ou depender de doações não é uma boa ideia. 
 Mas a funcionalidade é bem simples, se o app ajuda bastante as pessoas e a sociedade de alguma forma, mas você não quer cobrar alguma quantia por ele, você pode colocar um botão para doação no app e utilizar plataformas como Paypal ou PagSeguro, assim as pessoas ficam livres para doar o quanto quiser.
