@@ -20,8 +20,7 @@
 3- O teste automatizado é definido como o procedimento de realizar testes em softwares em construção de maneira combinada, sem intervenção humana. Isso ocorre porque eles têm a capacidade de testar intuitivamente todos os aspectos da plataforma para garantir o desempenho adequado.
 
 4-
-
-![Aprendendo sobre testes de softwares - DEV Community 👩‍💻👨‍💻](Aspose.Words.e861aa41-5f70-4103-b22d-e3eeb6e99423.001.png)
+⃤
 
 
 Começando pela base da pirâmide, o Unit (Testes unitários), são os testes feitos na menor parte testável de um programa, independe da sua interação com outras partes do código. Já que fazem testes em menores pedaços do código isoladamente, testes unit tendem ser pequenos e de criação mais rápida e execução. Essa vantagem faz que, caso algum dos testes falhe, seja possível olhar com precisão o local do problema.
